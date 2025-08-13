@@ -30,3 +30,5 @@ assets/js/dist
 GEMINI.md
 session_memory.json
 
+.DS_Store
+
